@@ -13,7 +13,7 @@ void main()
 	char userName[40];
 
 	// Prompt for user's name
-	cout << "What is your name? ";
+	cout << “Please enter your name";
 	cin >> userName;
 
 	// print out hello message
